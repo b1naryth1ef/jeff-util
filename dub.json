@@ -1,0 +1,7 @@
+{
+  "name": "jeff-util",
+  "targetType": "dynamicLibrary",
+  "dependencies": {
+    "jeff": {"path": "../../"}
+  }
+}
